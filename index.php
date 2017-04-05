@@ -1,2 +1,2 @@
 <?php
-echo "Hello LINE BOT RMUTSV";
+echo "Hello LINE BOT";
